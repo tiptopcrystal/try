@@ -1,5 +1,5 @@
 document.querySelector('header').innerHTML = `<div class="logo_container">
-<a href="../../index.html"><img src="../img/logo.jpg" alt=""></a>
+<a href="../index.html"><img src="../img/logo.jpg" alt=""></a>
 </div>
 <div class="menu">
 <a href="../pages/about.html">
